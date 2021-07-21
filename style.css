@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.box1 {
+    font-size: 25px;
+    margin: 20px;
+    height: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.box2 {
+    margin: 50px;
+    height: 200px;
+    padding: 50px;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box3 {
+    margin: 50px;
+    height: 200px;
+    padding: 50px;
+    background-color:rgba(184, 90, 179, 0.596);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box4 {
+    margin: 50px;
+    height: 200px;
+    padding: 50px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+img {
+    height: 250px;
+}
